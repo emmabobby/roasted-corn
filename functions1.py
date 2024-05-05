@@ -4,7 +4,7 @@ def len_of_string(lexus):
 def characters(divine):
 	count = 1
 	word = ""
-	while count < len(divine):
+	while count < len(                                       `):
 		word += divine[count]
 		count += 2
 	return word

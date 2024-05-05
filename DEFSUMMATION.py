@@ -1,0 +1,6 @@
+def summation(*numbers):
+	total = 0
+	for number in numbers
+		total = number
+	return total
+(1, 2, 3, 4, 5)
